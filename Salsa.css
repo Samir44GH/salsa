@@ -1,6 +1,8 @@
 body
 {
-	background-image: url('salsaimg.png');
+	background-image: url('fdsalsa.jpg');
+	background-attachment: fixed;
+	background-size: 100%;
 }
 
 h2
@@ -17,7 +19,7 @@ h1
 
 .titre_img
 {
-	text-align: center;
+	text-align: center; 
 }
 
 .images
@@ -37,6 +39,6 @@ p
 
 .salsa
 {
-	background-color: white;
-	color: black;
+	
+	color: white;
 }
